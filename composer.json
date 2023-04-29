@@ -1,0 +1,16 @@
+{
+    "name": "daniel-justo/scandiweb-api",
+    "description": "Api for a test of ScandiWeb",
+    "autoload": {
+        "psr-4": {
+            "DanielJusto\\ScandiwebApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Justo",
+            "email": "justodaniel29@gmail.com"
+        }
+    ],
+    "require": {}
+}
